@@ -1,0 +1,45 @@
+body{
+    text-align: left;
+    font-size: 20px;
+}
+div{
+    text-align: left;
+    display:block;
+    margin-left: auto;
+    margin-right: auto; 
+    padding-left: 8%;
+} 
+h1{
+    text-align: center;
+}
+img{ 
+    padding-left:10%;
+}
+.sulfite{
+    padding-left: 2%;
+}
+.sec{
+    text-align: right;
+    padding-right:10%;
+}
+.highlight{
+    background-color: greenyellow;
+    height: 4em;
+    width: 8em;
+    position: fixed;
+    border-width: 5px;
+}
+.sec{
+    text-align: right;
+    padding-left: 20%;
+}
+.k{
+    list-style: none;
+}
+h2{
+    text-decoration: underline;
+    text-decoration-color:rgb(68, 0, 255);
+}
+
+
+
